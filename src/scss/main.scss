@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900&display=swap');
+
+@font-face {
+  font-family: 'Roboto', sans-serif;
+  font-display: swap;
+}
+
+//font family
+$font-default: 'Roboto', sans-serif;
+
+//color
+$background-color: #F9F9F9;
+
+//font size, weight
+$fs-large: 28px;
+$fs-medium: 16px;
+$fs-small: 14px;
+$fs-xs: 12px;
+
+$fw-light: 300;
+$fw-regular: 400;
+$fw-medium: 500;
+$fw-Bold: 700;
+
+*{
+  font-family: $font-default;
+}
+
+body{
+  background-color: $background-color;
+  color: #000;
+}
+
