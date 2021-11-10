@@ -10,7 +10,8 @@ npm install
 npm run dev
 ```
 
+### Exception
+```
+Incase the List is already sorted by default, just drag and drop one row in the same position to stop the timer.
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
